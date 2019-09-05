@@ -1,0 +1,13 @@
+{
+    "name": "tuukka",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#334455",
+    "background_color": "#334455",
+    "display": "standalone"
+}
